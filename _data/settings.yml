@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Nepali Grammar',      url: 'nepali-grammar'}
-- {name: 'Low-Resource NLP',       url: 'low-resource-nlp'}
+- {name: 'Research',       url: 'research'}
 - {name: 'NLP Fundamentals',       url: 'nlp-fundamentals'}
 - {name: 'Resources',       url: 'resources'}
 - {name: 'About',              url: 'about'}
