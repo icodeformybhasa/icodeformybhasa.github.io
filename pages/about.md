@@ -10,11 +10,11 @@ permalink: /about
 
 <span style="font-size: 2.0em font-weight: bold;">Why <span style='font-family: monospace;'>#icodeformy<span style='color:#1d5965;'>भाषा</span>?</span></span>
 
-Passion for Nepali Linguistics: I have a genuine passion for Nepali linguistics and I am committed to sharing insights, tips, and discoveries related to the language.
+<span style="font-weight: bold;">Passion for Nepali Linguistics:</span> I have a genuine passion for Nepali linguistics and I am committed to sharing insights, tips, and discoveries related to the language.
 
-Advocacy for Low-Resource NLP: I believe in the power of technology to bridge linguistic gaps. <span style='font-family: monospace;'>#icodeformy<span style='color:#1d5965;'>भाषा</span></span> serves as a voice advocating for the inclusion of low-resource languages in the NLP landscape.
+<span style="font-weight: bold;">Advocacy for Low-Resource NLP:</span> I believe in the power of technology to bridge linguistic gaps. <span style='font-family: monospace;'>#icodeformy<span style='color:#1d5965;'>भाषा</span></span> serves as a voice advocating for the inclusion of low-resource languages in the NLP landscape.
 
-Community Building: This blog is not just a one-way street. I invite fellow language enthusiasts, researchers, and curious minds to join this community, share their thoughts, and contribute to the conversation.
+<span style="font-weight: bold;">Community Building:</span> This blog is not just a one-way street. I invite fellow language enthusiasts, researchers, and curious minds to join this community, share their thoughts, and contribute to the conversation.
 
 
 
