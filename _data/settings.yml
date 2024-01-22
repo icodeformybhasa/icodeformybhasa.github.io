@@ -7,15 +7,15 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-# - {name: 'Interesting Facts',  url: 'facts'}
-# - {name: 'Learning Resources', url: 'resources'}
-# - {name: 'Sample Posts',       url: 'sample-posts'}
-# - {name: 'Documentation',      url: 'documentation'}
+- {name: 'Nepali Grammar',      url: 'nepali-grammar'}
+- {name: 'Low-Resource NLP',       url: 'low-resource-nlp'}
+- {name: 'NLP Fundamentals',       url: 'nlp-fundamentals'}
+- {name: 'Resources',       url: 'resources'}
 - {name: 'About',              url: 'about'}
-# - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'linkedin', link:  'https://www.linkedin.com/in/shreeyya/'}
 - {icon: 'instagram', link:  'https://instagram.com/shreeyadl'}
 - {icon: 'envelope', link:   'mailto:shreeyadhakal05@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
