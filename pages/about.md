@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "#icodeformyभाषा"
+title_custom: <span style='font-family: monospace;'>#icodeformy</span><span style='color:#1d5965;'>भाषा</span>"
 permalink: /about
 ---
-<span style='font-family: monospace;'>#icodeformy</span><span style='color:#1d5965;'>भाषा</span>"
+
 Welcome to <span style='font-family: monospace;'>#icodeformy</span><span style='color:#1d5965;'>भाषा</span>
 
 🌏 Namaste! I'm Shreeya Dhakal, and I woild like you to join this digital space where I will be exploring the intricacies of Nepali grammar. In addition, I will also be publishing on my research and findings in the area of Natural Language Processing (NLP) for South-Asian Languages and low-resource NLP. I am fascinated by rich linguistic tapestry of Nepali and other South-Asian languages, and that passion is what fuels <span style='font-family: monospace;'>#icodeformy</span><span style='color:#1d5965;'>भाषा</span>.
