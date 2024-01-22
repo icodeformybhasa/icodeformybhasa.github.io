@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: basic
 title: "#icodeformyभाषा"
-title_custom: "<span style='font-family: monospace;'>#icodeformy<span style='color:#1d5965;'>भाषा</span></span>"
 permalink: /about
 ---
 
