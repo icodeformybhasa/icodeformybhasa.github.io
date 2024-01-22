@@ -1,8 +1,8 @@
 ---
 layout: page
-title: #icodeformyभाषा 
+title: "#icodeformy<span style='color:#1d5965;'>भाषा</span>"
 permalink: /about
 ---
 
 
-#icodeformy<span style="color:1d5965">भाषा</span>.
+#icodeformy<span style="color:#1d5965">भाषा</span>.
