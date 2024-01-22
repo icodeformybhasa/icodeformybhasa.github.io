@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="page-content">
+  <article>
+    {{ content }}
+  </article>
+</div>
