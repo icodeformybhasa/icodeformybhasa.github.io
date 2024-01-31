@@ -4,7 +4,7 @@ title: "An Introduction to Written Nepali"
 author: "Shreeya Dhakal"
 categories: nepali-grammar
 tags: [nepali, nepali-grammar, written nepali]
-image: nepali-lang.jpg
+image: nepali-lang.png
 ---
 
 Nepali is an Indo-Aryan language. It is written in Devnagari script. Hindi, Bengali, Marathi and Sanskrit are some other languages written in the same script. It follows Subject + Verb + Object pattern in writing and is written from left to right. This blog post will serve as an introduction to written Nepali.
