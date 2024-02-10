@@ -14,13 +14,22 @@ Nepali is written using vowels, consonants, modifiers(मात्रा) and sy
 ## Nepali Alphabets
 Nepali Alphabets consists of 11 vowels and 33 consonants. All the vowels and consonants, in Nepali, are listed in Table 1.
 
-**Table 1: Nepali Alphabets** 
+<div class="table-responsive">
+<table class="table">
+<caption><p>Table 1: Nepali Alphabets</p></caption>
+<tr> 
+<th><p>Vowels</p></th>
+<td><p>अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ</p></td>
+</tr>
 
-|   |   |
-|---|---|
-| **Vowels**      | अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ  |
-|  **Consonants**   | क, ख, ग, घ, ङ, च, छ, ज, झ, ञ, ट, ठ, ड, ढ, ण, त, थ, द, ध, न, प, फ, ब, भ, म, य, र, ल, व, श, ष, स, ह |
 
+<tr> 
+<th><p>Consonants</p></th>
+<td><p>क, ख, ग, घ, ङ, च, छ, ज, झ, ञ, ट, ठ, ड, ढ, ण, त, थ, द, ध, न, प, फ, ब, भ, म, य, र, ल, व, श, ष, स, ह</p></td>
+</tr>
+</table>
+</div>
+  
 क्ष, त्र and ज्ञ are usually mistaken for consonants but these letters are special combination of two different consonants and halanta "्".
 ```
 क + ् + ष = क्ष	
@@ -33,12 +42,41 @@ NOTE: _In Nepali, there is no provision for uppercase and lowercase letters._
 
 Modifiers, in Nepali, are representations for vowels. A modifier is used when the vowel is preceded by a consonant. Vowels and their respective modifiers are given in Table 2.
 
-**Table 2: Vowels and their Modifiers**
+<div class="table-responsive">
+<table class="table">
+<caption><p>Table 2: Vowels and their Modifiers</p></caption>
+<tr> 
+<th><p>Vowels</p></th>
+<td><p>अ</p></td>
+<td><p>आ</p></td>
+<td><p>इ</p></td>
+<td><p>ई</p></td>
+<td><p>उ</p></td>
+<td><p>ऊ</p></td>
+<td><p>ऋ</p></td>
+<td><p>ए</p></td>
+<td><p>ऐ</p></td>
+<td><p>ओ</p></td>
+<td><p>औ</p></td>
 
-| | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Vowels**      | अ | आ | इ | ई | उ | ऊ | ऋ | ए | ऐ | ओ | औ |
-| **Modifiers**   |   | ा | ि | ी | ु | ू | ृ | े | ै | ो | ौ |
+</tr>
+
+<tr> 
+<th><p>Modifiers</p></th>
+<td></td>
+<td><p>ा</p></td>
+<td><p>ि</p></td>
+<td><p>ी</p></td>
+<td><p>ु</p></td>
+<td><p>ू</p></td>
+<td><p>ृ</p></td>
+<td><p>े</p></td>
+<td><p>ै</p></td>
+<td><p>ो</p></td>
+<td><p>ौ</p></td>
+</tr>
+</table>
+</div>
 
 These modifiers can appear at the foot, top or middle of a consonant. They can also appear before and after a consonant.
 
@@ -75,13 +113,30 @@ NOTE: _Regardless of where the modifiers appear to be in writing, in computerize
 
 In addition to alphabets and modifiers, there are other symbols used in Nepali. Such symbols are listed below in Table 3.
 
-**Table 3: Symbols in Nepali**
-|   |   |
-|---|---|
-| **Chandrabindu(चन्द्रविन्दु)**      | ँ  |
-|  **Sirbindu(शिरविन्दु)**   | ं |
-| **Halanta(हलन्त)**      | 	्  |
-|  **Visarga(विसर्ग)**   | : |
+<div class="table-responsive">
+<table class="table">
+<caption><p>Table 3: Symbols in Nepali</p></caption>
+<tr> 
+<th><p>Chandrabindu(चन्द्रविन्दु)</p></th>
+<td><p>ँ</p> </td>
+</tr>
+
+<tr> 
+<th><p>Sirbindu(शिरविन्दु)</p></th>
+<td><p>ं</p> </td>
+</tr>
+
+<tr> 
+<th><p>Halanta(हलन्त)</p></th>
+<td><p>्</p> </td>
+</tr>
+
+<tr> 
+<th><p>Visarga(विसर्ग)</p></th>
+<td><p>:</p> </td>
+</tr>
+</table>
+</div>
 
 ## Chandrabindu and Sirbindu
 
