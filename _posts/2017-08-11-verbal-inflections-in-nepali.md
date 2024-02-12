@@ -13,6 +13,7 @@ In Nepali, verbs exhibit rich inflectional patterns, allowing for intricate nuan
 Nepali verbs inflect to encode: Tense, Aspect, Mood, Person, Number, Gender and Honorifics.
 
 ## Tense (काल)
+
 In Nepali, verbs exhibit three tenses to signify the timing of an action in relation to the moment of speaking: Past (भुत काल), Present (वर्तमान काल) and Future (भविष्यत काल). 
 ```
 Past (भुत काल): खायो (khaa-yo)
@@ -20,10 +21,12 @@ Present (वर्तमान काल): खान्छ (khaa-n-cha)
 Future (भविष्यत काल): खानेछु (khaa-ne-chu)
 ```
 
-## Aspect (पक्ष):
+## Aspect (पक्ष)
+
 While tense tells us when an action occurs, aspect tells us how that action unfolds or is perceived. In Nepali, verbs can be inflected to express 4 aspects: Perfect (पूर्ण पक्ष), Habitual (अभ्यस्त पक्ष), Imperfect (अपूर्ण पक्ष) and Inferential (अज्ञात पक्ष).
 
 ### Perfect Aspect (पूर्ण पक्ष)
+
 The perfect aspect of a verb indicates that the action has been completed prior to the current moment. In Nepali grammar, the presence of the suffix "एको" (eko) signals the perfect aspect. Notably, the suffix "एको" (eko) undergoes inflection to match the number (singular or plural) and gender (masculine or feminine) of the subject involved in the action. Examples: खाएको (khaa-eko), खाएका (khaa-yeka)
 ```
 Examples of Perfect Aspect (पूर्ण पक्ष) Verbs
@@ -33,7 +36,8 @@ Examples of Perfect Aspect (पूर्ण पक्ष) Verbs
 खाएका (kha-eko) - feminine, plural
 ```
 
-### Imperfect Aspect (अपूर्ण पक्ष):
+### Imperfect Aspect (अपूर्ण पक्ष)
+
 Imperfect aspect denotes an action that is in progress or ongoing. In Nepali grammar, this aspect is indicated by specific suffixes such as "दै" (dai), "दो" (do), "दी" (dii), and "दा" (da). These suffixes serve to highlight the ongoing nature of the action, suggesting that it is not yet complete or finalized. Examples: खाँदै (khaa-dai), खाँदा (khaa-daa)
 ```
 Examples of Imperfect Aspect (पूर्ण पक्ष) Verbs
@@ -44,6 +48,7 @@ Examples of Imperfect Aspect (पूर्ण पक्ष) Verbs
 ```
 
 ### Habitual Aspect (अभ्यस्त पक्ष)
+
 Habitual aspect depicts actions that occur regularly or habitually. It conveys the idea of actions that are customary or repeatedly performed. In Nepali grammar, the habitual aspect is represented by variants of the suffixes "छ" (cha) and "थ्" (th). These suffixes inflect to encode the person, number, gender, and levels of honorifics associated with the subject.
 
 ```
@@ -58,6 +63,7 @@ Examples of Habitual Aspect (अभ्यस्त पक्ष) Verbs
 ```
 
 ### Inferential Aspect (अज्ञात पक्ष)
+
 Inferential aspect in Nepali is used to describe actions that have occurred in the past but are only known or inferred in the present, often based on indirect evidence or hearsay. In Nepali grammar, the occurrence of the suffixes "ए" (e) and "इ" (i) between the verb stem and the forms of "छ" (cha) indicates the inferential aspect. These suffixes serve to imply that the action, while not directly observed or experienced, is deduced or inferred to have taken place.
 
 ```
@@ -73,9 +79,11 @@ Examples of Inferential Aspect (अज्ञात पक्ष) Verbs
 ```
 
 ## Mood (भाव)
+
 Mood conveys the speaker's attitude or stance towards the content being communicated. In Nepali, verbs exhibit three moods, each indicating a different perspective or intention of the speaker: Imperative (आज्ञार्थ भाव), Optative (इच्छार्थ भाव), and Potential (सम्भावनार्थ भाव).
 
 ### Imperative Mood (आज्ञार्थ भाव)
+
 Imperative Mood express commands or requests.  It is a directive form that directs the listener to perform a certain action. Verbs in the imperative mood undergo inflection to match the number and honorifics associated with the subject or the individual being addressed. 
 ```
 Examples of Imperative Mood (आज्ञार्थ भाव) Verbs
@@ -86,6 +94,7 @@ Examples of Imperative Mood (आज्ञार्थ भाव) Verbs
 ```
 
 ### Optative Mood (इच्छार्थ भाव)
+
 Optative mood indicates wishes, hopes, or desires. It allows speakers to express their desires regarding a particular situation or outcome. Optativer forms also undergo inflection to align with the person, number, and level of honorifics involved in the communication. 
 ```
 Examples of Optative Mood (इच्छार्थ भाव) Verbs
@@ -112,7 +121,8 @@ Examples of Potential Mood (सम्भावनार्थ भाव) Verbs
 खालान् (kha-lan) - third person, inclusive, plural
 ```
 
-## Person:
+## Person
+
 In Nepali grammar, verbs undergo inflection in agreement with person. It distinguishes between the first person (the speaker), the second person (the recipient or addressee), and the third person (others not involved in the conversation). Person verbs also demonstrate variations based on mood, tense, aspect, and number. In addition, second and third person verbs also inflect for gender and grades of honorifics.
 ```
 Examples of First Person Verbs
@@ -149,6 +159,7 @@ Examples of Third Person Verbs
 ```
 
 ## Number
+
 Nepali verbs exhibit agreement with the subject in terms of number: singular and plural.
 ```
 Examples of Singular Verbs
@@ -162,24 +173,31 @@ Examples of Plural Verbs
 ```
 
 ## Gender
+
 Verbs inflect to demonstrate two forms of gender agreement: masculine and feminine, reflecting the gender of the subject. This distinction is particularly evident in the conjugation of verbs for the second and third person singular forms. 
 
 
-## Honorifics:
+## Honorifics
+
 In Nepali language, honorifics play a significant role in social interactions, influencing verb forms to express different levels of respect in speech. Second and third person verb forms can undergo inflection to reflect three distinct grades of honorifics: casual, familiar, and respectful. These honorifics are chosen based on the level of formality and the relationship between the speaker and the listener. 
+
 ### Casual Honorifics
+
 Casual honorifics are used when addressing juniors or friends in a casual setting. The language used is informal and relaxed, reflecting a close relationship between the speaker and the listener. 
 ```
 तँ (You, singular) - Casual Honorific
   तँ खान्छस् (kha-n-chas)
 ```
+
 ### Familiar Honorifics
+
 The second grade of honorific, familiar honorifics, is employed when speaking to friends, acquaintances, or colleagues. It is more formal compared to casual honorifics and is considered appropriate for most social interactions.
 ```
 तिमी (You, singular) - Familiar Honorific
   तिमी खान्छौ (kha-n-chau)
 ```
 ### Respectful Honorifics
+
 Respectful honorifics are used while addressing seniors or elders, as well as individuals deserving of utmost respect. Verbs inflected with respectful honorifics exhibit a high level of respect and formality. 
 ```
 हजुर (You, singular) - Respectful Honorific

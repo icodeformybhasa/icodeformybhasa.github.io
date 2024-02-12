@@ -12,6 +12,7 @@ Negation is used to express the opposite meaning of affirmative sentences. Negat
 ## Negation due to Prefixation
 
 Negation in some verb forms occurs when the morpheme न(na) is prefixed to the verbs. Some of such verb forms are given below. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 1: Negation in Nepali Verbs due to Prefixation</p></caption>
@@ -104,6 +105,7 @@ Negation in some verb forms occurs when the morpheme न(na) is prefixed to the 
 Negation in Nepali verbs can also occur due to suffixation of the morpheme न(na) to verb forms/ verb roots. The morpheme can occur either at the end or in the middle of the negated verb.
 
 For the following verb forms, negation occurs due to suffixation. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 2: Negation in Nepali Verbs due to Suffixation</p></caption>
@@ -149,4 +151,5 @@ For the following verb forms, negation occurs due to suffixation.
 </div>
 
 ## References
+
 [A Computational Analysis of Nepali Morphology: A Model for Natural Language Processing](https://ojs.ub.uni-konstanz.de/jsal/dissertations/diss-balaram.pdf)

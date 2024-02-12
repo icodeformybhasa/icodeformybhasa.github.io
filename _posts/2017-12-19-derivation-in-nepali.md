@@ -15,6 +15,7 @@ You can read about inflections in Nepali at:
 - [Verbal Inflections: The Varied Forms of Nepali Verbs](https://icodeformybhasa.github.io/verbal-inflections-in-nepali)
 
 ## Derivation in Nepali
+
 Derivation is a process of forming new words from existing roots. In contrast to inflection, which is a process of word formation that maintains the lexical category of the root, derivation can change the lexical category of the root. Derivation in Nepali is a highly productive process. It can be categorized into four types:
 
 - Affixation (सर्ग प्रक्रिया)
@@ -23,6 +24,7 @@ Derivation is a process of forming new words from existing roots. In contrast to
 - Euphonic Combination (सन्धि प्रक्रिया)
 
 ## Affixation
+
 Affixation is the process of word formation by attaching free morphemes - affixes - to the roots. In Nepali, there are two types of affixes: prefix (उपसर्ग) and suffix (प्रत्यय) and hence, the two type of affixation namely, prefixation and suffixation. 
 ```
 # Suffixation
@@ -37,6 +39,7 @@ Affixation is the process of word formation by attaching free morphemes - affixe
 ```
 
 ## Compounding
+
 Compounding occurs when two or more words combine to form a new word. In Nepali, there are six types of compounding, all of which are listed below:
 
 - Determinative Compound (तत्पुरुस समास)
@@ -79,6 +82,7 @@ Copulative Compounding
 ```
 
 ## Reduplication
+
 In Nepali, the formation of new words can take place due to reduplication of word or part of the word. Reduplication, in Nepali, can be divided into three categories and they are:
 
 - Total Reduplication (पूर्ण द्वित्व)
@@ -102,6 +106,7 @@ In Nepali, the formation of new words can take place due to reduplication of wor
 ```
 
 ## Euphonic Combination
+
 Euphonic Combination is the joining of two phonemes from two different words to derive a single word. In Nepali, we can find two different categories of the euphonic combination. The first category contains all the types of euphonic combination taken from Sanskrit (तत्सम सन्धि) as Nepali is one of the languages which is derived from Sanskrit. The other category contains the types of euphonic combination specific to Nepali language (तत्भव सन्धि). 
 
 ```

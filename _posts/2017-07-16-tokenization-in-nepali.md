@@ -29,11 +29,13 @@ OUTPUT:
 You can find out more about punctuation marks in Nepali at: [Punctuation in Nepali] (https://nepalgo.tumblr.com/post/71951951192/punctuation-marks).
 
 ## Word-level Tokenization
+
 In languages that have words separated by blank spaces, the token boundary for word-level tokenization is the blank/white space. Nepali is one such language, so word-level tokenization in Nepali can be achieved by stripping tokens at those white spaces. However, it is not as simple as it looks, especially when dealing with punctuations. Some punctuation is easy to handle. All that you need to do is replace them with a white space and you are good to go.
 
 Cases involving hyphen (-) and colon (:) need to be handled differently.
 
 ## Replacing Punctuations with White Space
+
 The following is the list of punctuations that can be handled by simply replacing them with a white space.
 ```
 ,
@@ -63,6 +65,7 @@ OUTPUT:
 ```
 
 ## Hyphen (-)
+
 In Nepali, a Hyphen (योजक चिन्ह) is used in linking word pairs: opposite, analogy or similar, together. In such cases, the hyphen is considered as a part of the token itself.
 
 ```
@@ -131,6 +134,7 @@ OUTPUT:
 ```
 
 ## Period(.)
+
 Period is another punctuation used in Nepali. Unlike in English where a period can be used in two cases: ending a sentence i.e. as a fullstop and as a part of abbreviation, in Nepali it is used for latter only. 
 ```
 गा.वि.स.

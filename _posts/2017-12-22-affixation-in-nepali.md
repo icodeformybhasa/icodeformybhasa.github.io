@@ -20,12 +20,14 @@ Afffixation (सर्ग प्रक्रिया) is the process which invo
 _NOTE: There are no derivational/inflectional infixes and circumfixes in Nepali._
 
 ## Suffixation
+
 Suffixation is a process of word formation by the addition of bound morpheme to the end of the root. The bound morpheme involved in suffixation is called suffix (प्रत्यय/परसर्ग). On the basis of the root they attach to, there are two types of suffixes in Nepali and they are:
 
 - Primary Suffix (कृत् प्रत्यय)
 - Secondary Suffix (तद्वित प्रत्यय)
 
-A primary suffix (कृत् प्रत्यय) is added to the end of a verb root to form a primary derivative word (कृदन्त शब्द). A primary derivative word belongs to noun (नाम), verb (क्रियापद), adjective (विशेषण) or adverb (क्रियाविशेषण). 
+A **primary suffix (कृत् प्रत्यय)** is added to the end of a verb root to form a primary derivative word (कृदन्त शब्द). A primary derivative word belongs to noun (नाम), verb (क्रियापद), adjective (विशेषण) or adverb (क्रियाविशेषण). 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 1: Examples of Primary Derivation</p></caption>
@@ -107,7 +109,8 @@ A primary suffix (कृत् प्रत्यय) is added to the end of a v
 </div>
 
 
-A secondary suffix (तद्वित प्रत्यय) can be applied to anything but a verb root to form a secondary derivative word (तद्वितान्त शब्द). Such suffixes act on noun, pronoun, adjective, adverb and primary derivative word. 
+A **secondary suffix (तद्वित प्रत्यय)** can be applied to anything but a verb root to form a secondary derivative word (तद्वितान्त शब्द). Such suffixes act on noun, pronoun, adjective, adverb and primary derivative word. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 2: Examples of Secondary Derivation</p></caption>
@@ -195,7 +198,8 @@ On the basis of their ability to maintain or change the lexical category of the 
 - Class Maintaining Suffix
 - Class Changing Suffix
 
-A class maintaining suffix maintains the lexical category of the root after suffixation. Some of the class maintaining suffixes in Nepali are given in Table 3. 
+A **class maintaining suffix** maintains the lexical category of the root after suffixation. Some of the class maintaining suffixes in Nepali are given in Table 3. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 3: Examples of Class Maintaining Suffixation</p></caption>
@@ -245,7 +249,8 @@ A class maintaining suffix maintains the lexical category of the root after suff
 </table>
 </div>
 
-A class changing suffix changes the lexical category of the root after suffixation. Some of the class maintaining suffixes in Nepali are given in Table 4.
+A **class changing suffix** changes the lexical category of the root after suffixation. Some of the class maintaining suffixes in Nepali are given in Table 4.
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 4: Examples of Class Changing Suffixation</p></caption>
@@ -312,6 +317,7 @@ A class changing suffix changes the lexical category of the root after suffixati
 </div>
 
 ## Prefixation
+
 Prefixation is the process of word formation in which a bound morpheme is attached to the beginning of a root. Prefix (उपसर्ग) is the bound morpheme which is involved in the process of prefixation. In Nepali, the process of prefixation produces noun, adjective and adverb only.
 
 Prefixes in Nepali can have various effects in the meaning of the base they get attached to. Some of the possible effects of prefixation on meaning of the root are listed below.
@@ -328,6 +334,7 @@ Prefixes in Nepali can be divided into three types and they are:
 - Prefixes from other sources (आगन्तुक उपसर्ग)
 
 **Prefixes from Sanskrit** are the prefixes that are taken from Sanskrit language. Some of such prefixes and their meanings are given in Table 5. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 5: Prefixes from Sanskrit and their Meanings</p></caption>
@@ -390,6 +397,7 @@ Prefixes in Nepali can be divided into three types and they are:
 </div>
 
 **Prefixes from Nepali** are the prefixes that are from Nepali language itself. Some of such prefixes and their meanings are given in Table 6. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 6: Prefixes from Nepali and their Meanings</p></caption>
@@ -445,6 +453,7 @@ Prefixes in Nepali can be divided into three types and they are:
 </div>
 
 **Prefixes from other sources** are the type of prefixes that are taken from sources other than Sanskrit and Nepali. Some of such prefixes and their meanings are given in Table 7. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 7: Prefixes from other sources and their Meanings</p></caption>
@@ -501,5 +510,6 @@ Prefixes in Nepali can be divided into three types and they are:
 </div>
 
 ## References
-[A Foundation in Nepali Grammar](https://books.google.com.np/books?id=iZn9uuh34dQC&pg=PA235&lpg=PA235&dq=prefixes+in+nepali&source=bl&ots=u7BTyvmbiP&sig=UwX7lmCTkV3xCqQVJKe8vhqZmZQ&hl=en&sa=X&ved=0ahUKEwjQhOTJsZ3YAhVKuo8KHb--Cls4ChDoAQg0MAY#v=onepage&q=prefixes in nepali&f=false)
+
+[A Foundation in Nepali Grammar](https://books.google.com.np/books?id=iZn9uuh34dQC&pg=PA235&lpg=PA235&dq=prefixes+in+nepali&source=bl&ots=u7BTyvmbiP&sig=UwX7lmCTkV3xCqQVJKe8vhqZmZQ&hl=en&sa=X&ved=0ahUKEwjQhOTJsZ3YAhVKuo8KHb--Cls4ChDoAQg0MAY#v=onepage&q=prefixes)
 

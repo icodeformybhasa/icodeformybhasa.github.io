@@ -21,7 +21,9 @@ In Nepali, the process of compounding can be divided into six types and they are
 - Copulative Compound(द्वन्द्व समास)
 
 ## Determinative Compound
-A determinative compound is formed when the first word loses its case marker (विभक्ति चिन्ह) when combining with the second root. Such compounds express the meaning of the second root and the meaning of the first word is lost in the process. There are six types of determinative compounds, all of which are listed and described in Table 1. 
+
+A **determinative compound** is formed when the first word loses its case marker (विभक्ति चिन्ह) when combining with the second root. Such compounds express the meaning of the second root and the meaning of the first word is lost in the process. There are six types of determinative compounds, all of which are listed and described in Table 1. 
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 1: Determinative Compound</p></caption>
@@ -119,7 +121,8 @@ A determinative compound is formed when the first word loses its case marker (�
 </div>
 
 ## Numeral Compound
-When a numeral adjective (सङ्ख्यावाचक विशेषण) and collective noun (समूहवाचक नाम) combine, a numeral compound is formed. Some of such compounds are given below: 
+
+When a **numeral adjective (सङ्ख्यावाचक विशेषण)** and **collective noun (समूहवाचक नाम)** combine, a numeral compound is formed. Some of such compounds are given below: 
 ```
 Independent Form => Compound Word
 नौ गेडाको समूह => नौगेडी
@@ -130,7 +133,8 @@ Independent Form => Compound Word
 ```
 
 ## Appositional Compound
-An appositional compound is formed when:
+
+An **appositional compound** is formed when:
 
 - An adjective (विशेषण) combines with an adjective
 - A noun (नाम) combines with a noun
@@ -207,7 +211,8 @@ All the independent words forming an appositional compound have equal importance
 </div>
 
 ## Adverbial Compound
-An adverbial compound is usually an indeclinable word (अव्यय) formed when two indeclinable words or any other words combine. Some of such compounds are listed below:
+
+An **adverbial compound** is usually an indeclinable word (अव्यय) formed when two indeclinable words or any other words combine. Some of such compounds are listed below:
 ```
 Independent Form => Compound Word
 आज + भोलि => आजभोलि
@@ -219,7 +224,7 @@ Independent Form => Compound Word
 
 ## Attributive Compound
 
-An attributive compound is an adjective, which is formed when two or more words combine. An attributive compound expresses a new meaning, which is different from that of the independent words. The types of attributive compound are described in Table 3. 
+An **attributive compound** is an adjective, which is formed when two or more words combine. An attributive compound expresses a new meaning, which is different from that of the independent words. The types of attributive compound are described in Table 3. 
 
 <div class="table-responsive">
 <table class="table">
@@ -290,7 +295,9 @@ lack of something</p></td>
 </div>
 
 ## Copulative Compound
-Copulative compounds are formed when two or more words connected by a conjunction combine by losing the conjunction. The types of copulative compound are listed in Table 4.
+
+**Copulative compounds** are formed when two or more words connected by a conjunction combine by losing the conjunction. The types of copulative compound are listed in Table 4.
+
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 6: Copulative Compound</p></caption>
