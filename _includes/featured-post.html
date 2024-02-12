@@ -1,10 +1,10 @@
 <div class="featured-post {% cycle 'even', 'odd' %}">
       <a href="{{ site.github.url }}{{ post.url }}">
-          <h2><span>{{ post.title }}</span></h2>
+          <h2>{{ post.title }}</h2>
       </a>
-      <div class="featured-image" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <div class="image" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
       </div>
-      <div class="post-preview">
+      <div class="preview">
           <p>{{ post.content | truncatewords: 20 }}</p>
           <p><a href="{{ site.github.url }}{{ post.url }}">Read more</a></p>
       </div>
