@@ -1,28 +1,13 @@
-<!-- <article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <h2><span>{{ post.title }}</span></h2>
-  </a>
-  {% if site.hide_post_date != true %}
-  {% include post-date.html %}
-  {% endif %}
-  <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}/>
-  <article>
-    {{ content | truncatewords: 50}}
-    <a href="{{ site.github.url }}{{ post.url }}">Read More
-    </a>
-  </article>
-</article> -->
-
 <article>
-    <div class="featured-post {% cycle 'even', 'odd' %}">
-      <a href="{{ site.github.url }}{{ post.url }}"></a><h2><span>{{ post.title }}</span></h2> </a>
-      {% if site.hide_post_date != true %}
-      {% include post-date.html %}
-      {% endif %}
-        <div class="post-image" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-        </div>
-      <div class="post-preview">
-        <p>{{ post.content | truncatewords: 20 }}</p>
+  <div class="featured-post {% cycle 'even', 'odd' %}">
+      <a href="{{ site.github.url }}{{ post.url }}">
+          <h2><span>{{ post.title }}</span></h2>
+      </a>
+      <div class="post-image" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
       </div>
-    </div>
+      <div class="post-preview">
+          <p>{{ post.content | truncatewords: 50 }}</p>
+          <p><a href="{{ site.github.url }}{{ post.url }}">Read more</a></p>
+      </div>
+  </div>
 </article>

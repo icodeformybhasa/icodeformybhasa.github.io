@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Derivation in Nepali: Compounding"
+title: "Derivation in Nepali: Reduplication"
 author: "Shreeya Dhakal"
 categories: nepali-grammar
 tags: [nepali, written nepali, morpheme, morphology, derivation, verbs, reduplication]
