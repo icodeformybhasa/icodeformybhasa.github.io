@@ -1,6 +1,18 @@
 <a href="{{ site.github.url }}{{ post.url }}">
   <div class="text_brand"><h2>{{ post.title }}</h2></div>
 </a>
+<span class="post-date">
+  {{ site.data.settings.post_date_prefix }}
+  {% if post.date %}
+    {{post.date}}
+  {% endif %}
+  by
+  {% if page.author %}
+    {{ page.author }}
+  {% else %}
+    {{ site.author }}
+  {% endif %}
+</span>
 <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
 </div>
 <div>

@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: 'comments'
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'icodeformybhasa'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
