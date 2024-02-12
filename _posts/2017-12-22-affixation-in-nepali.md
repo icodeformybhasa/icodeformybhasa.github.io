@@ -28,109 +28,81 @@ Suffixation is a process of word formation by the addition of bound morpheme to 
 A primary suffix (कृत् प्रत्यय) is added to the end of a verb root to form a primary derivative word (कृदन्त शब्द). A primary derivative word belongs to noun (नाम), verb (क्रियापद), adjective (विशेषण) or adverb (क्रियाविशेषण). 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 1: Examples of Primary Derivation</caption>
-  <tr>
-    <th>Primary Suffix<br>(कृत् प्रत्यय)</th>
-    <th>Verb Root</th>
-    <th>Derivative Word<br>(कृदन्त शब्द)</th>
-    <th>Category of Derivative Word<br>(कृदन्त शब्दको शब्दवर्ग)</th>
-  </tr>
-  <tr>
-    <td>अत (ata)</td>
-    <td>बच् (bach)</td>
-    <td>बचत (bach-ata)</td>
-    <td>नाम (Noun)</td>
-  </tr>
-  <tr>
-    <td>अनी (anii)</td>
-    <td>थाल् (thal)</td>
-    <td>थालनी (thal-anii)</td>
-    <td>नाम (Noun)</td>
-  </tr>
-  <tr>
-    <td>उवा (uwa)</td>
-    <td>बढ् (badh)</td>
-    <td>बढुवा (badh-uwa)</td>
-    <td>नाम (Noun)</td>
-  </tr>
-  <tr>
-    <td>आउरी(aaurii)</td>
-    <td>जित् (jit)</td>
-    <td>जिताउरी (jit-aaurii)</td>
-    <td>नाम (Noun)</td>
-  </tr>
-  <tr>
-    <td>अ (a)</td>
-    <td>पढ् (padh)</td>
-    <td>पढ (padh-a)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>दै (dai)</td>
-    <td>सुत् (sut)</td>
-    <td>सुत्दै (sut-dai)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>एको (eko)</td>
-    <td>खोस् (khos)</td>
-    <td>खोसेको (khos-eko)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>ए (e)</td>
-    <td>खा (kha)</td>
-    <td>खाए (kha-e)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>आहा (aahaa)</td>
-    <td>ठग् (thag)</td>
-    <td>ठगाहा (thag-aahaa)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>अन्ते (ante)</td>
-    <td>पढ् (padh)</td>
-    <td>पढन्ते (padh-ante)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>इलो (ilo)</td>
-    <td>हाँस् (haas)</td>
-    <td>हँसिलो (has-ilo)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>आलु (aalu)</td>
-    <td>बढ् (badh)</td>
-    <td>बढालु (badh-alu)</td>
-    <td>क्रियापद (Verb)</td>
-  </tr>
-  <tr>
-    <td>एर (era)</td>
-    <td>देख् (dekh)</td>
-    <td>देखेर (dekh-era)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>ता (ta)</td>
-    <td>उठ् (uth)</td>
-    <td>उठ्ता (uth-ta)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>न (na)</td>
-    <td>उड् (ud)</td>
-    <td>उड्न (ud-na)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>ई (ii)</td>
-    <td>भुल् (bhul)</td>
-    <td>भुली (bhul-ii)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
+<caption><p>Table 1: Examples of Primary Derivation</p></caption>
+<tr>
+<th><p>Primary Suffix
+(कृत् प्रत्यय)</p></th>
+<th><p>Verb Root</p></th>
+<th><p>Derivative Word
+(कृदन्त शब्द)</p></th>
+<th><p>Category of Derivative Word
+(कृदन्त शब्दको शब्दवर्ग)</p></th>
+</tr>
+
+<tr>
+<td><p>अत (ata)
+अनी (anii)
+उवा (uwa)
+आउरी(aaurii)</p></td>
+<td><p>बच् (bach)
+थाल् (thal)
+बढ् (badh)
+जित् (jit)</p></td>
+<td><p>बचत (bach-ata)
+थालनी (thal-anii)
+बढुवा (badh-uwa)
+जिताउरी (jit-aaurii)</p></td>
+<td><p>नाम (Noun)</p></td>
+</tr>
+
+<tr>
+<td><p>अ (a)
+दै (dai)
+एको (eko)
+ए (e)</p></td>
+<td><p>पढ् (padh)
+सुत् (sut)
+खोस् (khos)
+खा (kha)</p></td>
+<td><p>पढ (padh-a)
+सुत्दै (sut-dai)
+खोसेको (khos-eko)
+खाए (kha-e)</p></td>
+<td><p>क्रियापद (Verb)</p></td>
+</tr>
+
+<tr>
+<td><p>आहा (aahaa)
+अन्ते (ante)
+इलो (ilo)
+आलु (aalu)</p></td>
+<td><p>ठग् (thag)
+पढ् (padh)
+हाँस् (haas)
+बढ् (badh)</p></td>
+<td><p>ठगाहा (thag-aahaa)
+पढन्ते (padh-ante)
+हँसिलो (has-ilo)
+बढालु (badh-alu)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+</tr>
+
+<tr>
+<td><p>एर (era)
+ता (ta)
+न (na)
+ई (ii)</p></td>
+<td><p>देख् (dekh)
+उठ् (uth)
+उड् (ud)
+भुल् (bhul)</p></td>
+<td><p>देखेर (dekh-era)
+उठ्ता (uth-ta)
+उड्न (ud-na)
+भुली (bhul-ii)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
 </table>
 </div>
 
@@ -138,71 +110,85 @@ A primary suffix (कृत् प्रत्यय) is added to the end of a v
 A secondary suffix (तद्वित प्रत्यय) can be applied to anything but a verb root to form a secondary derivative word (तद्वितान्त शब्द). Such suffixes act on noun, pronoun, adjective, adverb and primary derivative word. 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 2: Examples of Secondary Derivation</caption>
-  <tr>
-    <th>Root</th>
-    <th>Category of Root</th>
-    <th>Secondary Suffix<br>(तद्वित प्रत्यय)</th>
-    <th>Derivative Word<br>(तद्वितान्त शब्द)</th>
-    <th>Category of Derivative Word<br>(तद्वितान्त शब्दको शब्दवर्ग)</th>
-  </tr>
-  <tr>
-    <td>गफ (gaf)</td>
-    <td>नाम (Noun)</td>
-    <td>आडी (aadii)</td>
-    <td>गफाडी (gaf-aadii)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>राम्रो (ramro)</td>
-    <td>विशेषण (Adjective)</td>
-    <td>अरी (arii)</td>
-    <td>राम्ररी (ramr-ari)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-  </tr>
-  <tr>
-    <td>घर (ghar)</td>
-    <td>नाम (Noun)</td>
-    <td>आन (aan)</td>
-    <td>घरान (ghar-aan)</td>
-    <td>नाम (Noun)</td>
-  </tr>
-  <tr>
-    <td>त्यो (tyo)</td>
-    <td>सर्वनाम (Pronoun)</td>
-    <td>नै (nai)</td>
-    <td>त्यही (tyahi)</td>
-    <td>सर्वनाम (Pronoun)</td>
-  </tr>
-  <tr>
-    <td>बाहिर (bahira)</td>
-    <td>नाम (Noun)</td>
-    <td>इया (iya)</td>
-    <td>बाहिरिया (bahir-iya)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-  </tr>
-  <tr>
-    <td>अघि (aghi)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-    <td>लो (lo)</td>
-    <td>अघिल्लो (aghil-lo)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>त्यो (tyo)</td>
-    <td>सर्वनाम (Pronoun)</td>
-    <td>अरी (ari)</td>
-    <td>त्यसरी (tyas-ari)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-  </tr>
-  <tr>
-    <td>सफा (safa)</td>
-    <td>विशेषण (Adjective)</td>
-    <td>आइ (aai)</td>
-    <td>सफाइ (safa-ai)</td>
-    <td>नाम (Noun)</td>
-  </tr>
+<caption><p>Table 2: Examples of Secondary Derivation</p></caption>
+<tr>
+<th><p>Root</p></th>
+<th><p>Category of Root</p></th>
+<th><p>Secondary Suffix
+(तद्वित प्रत्यय)</p></th>
+<th><p>Derivative Word
+(तद्वितान्त शब्द)</p></th>
+<th><p>Category of Derivative Word
+(तद्वितान्त शब्दको शब्दवर्ग)</p></th>
+</tr>
+
+<tr>
+<td><p>गफ (gaf)</p></td>
+<td><p>नाम (Noun)</p></td>
+<td><p>आडी (aadii)</p></td>
+<td><p>गफाडी (gaf-aadii)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+</tr>
+
+<tr>
+<td><p>राम्रो (ramro)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+<td><p>अरी (arii)</p></td>
+<td><p>राम्ररी (ramr-ari)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
+<tr>
+<td><p>घर (ghar)</p></td>
+<td><p>नाम (Noun)</p></td>
+<td><p>आन (aan)</p></td>
+<td><p>घरान (ghar-aan)</p></td>
+<td><p>नाम (Noun)</p></td>
+</tr>
+
+<tr>
+<td><p>त्यो (tyo)</p></td>
+<td><p>सर्वनाम (Pronoun)</p></td>
+<td><p>नै (nai)</p></td>
+<td><p>त्यही (tyahi)</p></td>
+<td><p>सर्वनाम (Pronoun)</p></td>
+</tr>
+
+<tr>
+<td><p>बाहिर (bahira)</p></td>
+<td><p>नाम (Noun)</p></td>
+<td><p>इया (iya)</p></td>
+<td><p>बाहिरिया (bahir-iya)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
+<tr>
+<td><p>अघि (aghi)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+<td><p>लो (lo)</p></td>
+<td><p>अघिल्लो (aghil-lo)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+</tr>
+
+<tr>
+<td><p>त्यो (tyo)</p></td>
+<td><p>सर्वनाम (Pronoun)</p></td>
+<td><p>अरी (ari)</p></td>
+<td><p>त्यसरी (tyas-ari)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
+
+<tr>
+<td><p>सफा (safa)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+<td><p>आइ (aai)</p></td>
+<td><p>सफाइ (safa-ai)</p></td>
+<td><p>नाम (Noun)</p></td>
+</tr>
+
 </table>
+</div>
 
 On the basis of their ability to maintain or change the lexical category of the base they get attached to, suffixes in Nepali can be of two types. They are:
 
@@ -212,99 +198,116 @@ On the basis of their ability to maintain or change the lexical category of the 
 A class maintaining suffix maintains the lexical category of the root after suffixation. Some of the class maintaining suffixes in Nepali are given in Table 3. 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 3: Examples of Class Maintaining Suffixation</caption>
-  <tr>
-    <th>Root</th>
-    <th>Suffix (प्रत्यय)</th>
-    <th>Derivative Word</th>
-    <th>Category(शब्दवर्ग)</th>
-  </tr>
-  <tr>
-    <td>राज (raaj)</td>
-    <td>आइँ (aai~)</td>
-    <td>रजाइँ (raj-aai~)</td>
-    <td>नाम (Noun)</td>
-  </tr>
-  <tr>
-    <td>उच्च (uchcha)</td>
-    <td>तम (tam)</td>
-    <td>उच्चतम (uchcha-tam)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>त्यो (tyo)</td>
-    <td>नै (nai)</td>
-    <td>त्यही (tyahi)</td>
-    <td>सर्वनाम (Pronoun)</td>
-  </tr>
-  <tr>
-    <td>पण्डित (pandit)</td>
-    <td>याइँ (yaai~)</td>
-    <td>पण्डितयाइँ (pandit-yaai~)</td>
-    <td>नाम (Noun)</td>
-  </tr>
-  <tr>
-    <td>पछि (pachhi)</td>
-    <td>आडी (aadi)</td>
-    <td>पछाडी (pach-aadi)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-  </tr>
+<caption><p>Table 3: Examples of Class Maintaining Suffixation</p></caption>
+
+<tr>
+<th><p>Root</p></th>
+<th><p>Suffix (प्रत्यय)</p></th>
+<th><p>Derivative Word</p></th>
+<th><p>Category(शब्दवर्ग)</p></th>
+</tr>
+ 
+<tr>
+<td><p>राज (raaj)</p></td>
+<td><p>आइँ (aai~)</p></td>
+<td><p>रजाइँ (raj-aai~)</p></td>
+<td><p>नाम (Noun)</p></td>
+</tr>
+
+<tr>
+<td><p>उच्च (uchcha)</p></td>
+<td><p>तम (tam)</p></td>
+<td><p>उच्चतम (uchcha-tam)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+</tr>
+
+<tr>
+<td><p>त्यो (tyo)</p></td>
+<td><p>नै (nai)</p></td>
+<td><p>त्यही (tyahi)</p></td>
+<td><p>सर्वनाम (Pronoun)</p></td>
+</tr>
+
+<tr>
+<td><p>पण्डित (pandit)</p></td>
+<td><p>याइँ (yaai~)</p></td>
+<td><p>पण्डितयाइँ (pandit-yaai~)</p></td>
+<td><p>नाम (Noun)</p></td>
+</tr>
+
+<tr>
+<td><p>पछि (pachhi)</p></td>
+<td><p>आडी (aadi)</p></td>
+<td><p>पछाडी (pach-aadi)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
 </table>
 </div>
 
 A class changing suffix changes the lexical category of the root after suffixation. Some of the class maintaining suffixes in Nepali are given in Table 4.
 <div class="table-responsive">
 <table class="table">
-<caption>Table 4: Examples of Class Changing Suffixation</caption>
-  <tr>
-    <th>Root</th>
-    <th>Category of Root</th>
-    <th>Suffix (प्रत्यय)</th>
-    <th>Derivative Word</th>
-    <th>Category of Derivative Word</th>
-  </tr>
-  <tr>
-    <td>गफ (gaf)</td>
-    <td>नाम (Noun)</td>
-    <td>आडी (aadii)</td>
-    <td>गफाडी (gaf-aadii)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>राम्रो (ramro)</td>
-    <td>विशेषण (Adjective)</td>
-    <td>अरी (arii)</td>
-    <td>राम्ररी (ramr-ari)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-  </tr>
-  <tr>
-    <td>बाहिर (bahira)</td>
-    <td>नाम (Noun)</td>
-    <td>इया (iya)</td>
-    <td>बाहिरिया (bahir-iya)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-  </tr>
-  <tr>
-    <td>अघि (aghi)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-    <td>लो (lo)</td>
-    <td>अघिल्लो (aghil-lo)</td>
-    <td>विशेषण (Adjective)</td>
-  </tr>
-  <tr>
-    <td>त्यो (tyo)</td>
-    <td>सर्वनाम (Pronoun)</td>
-    <td>अरी (ari)</td>
-    <td>त्यसरी (tyas-ari)</td>
-    <td>क्रियाविशेषण (Adverb)</td>
-  </tr>
-  <tr>
-    <td>सफा (safa)</td>
-    <td>विशेषण (Adjective)</td>
-    <td>आइ (aai)</td>
-    <td>सफाइ (safa-ai)</td>
-    <td>नाम (Noun)</td>
-  </tr>
+<caption><p>Table 4: Examples of Class Changing Suffixation</p></caption>
+
+<tr>
+<th><p>Root</p></th>
+<th><p>Category of Root</p></th>
+<th><p>Suffix (प्रत्यय)</p></th>
+<th><p>Derivative Word</p></th>
+<th><p>Category of Derivative Word</p></th>
+</tr>
+
+<tr>
+<td><p>गफ (gaf)</p></td>
+<td><p>नाम (Noun)</p></td>
+<td><p>आडी (aadii)</p></td>
+<td><p>गफाडी (gaf-aadii)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+</tr>
+
+<tr>
+<td><p>राम्रो (ramro)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+<td><p>अरी (arii)</p></td>
+<td><p>राम्ररी (ramr-ari)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
+
+<tr>
+<td><p>बाहिर (bahira)</p></td>
+<td><p>नाम (Noun)</p></td>
+<td><p>इया (iya)</p></td>
+<td><p>बाहिरिया (bahir-iya)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
+<tr>
+<td><p>अघि (aghi)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+<td><p>लो (lo)</p></td>
+<td><p>अघिल्लो (aghil-lo)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+</tr>
+
+<tr>
+<td><p>त्यो (tyo)</p></td>
+<td><p>सर्वनाम (Pronoun)</p></td>
+<td><p>अरी (ari)</p></td>
+<td><p>त्यसरी (tyas-ari)</p></td>
+<td><p>क्रियाविशेषण (Adverb)</p></td>
+</tr>
+
+
+<tr>
+<td><p>सफा (safa)</p></td>
+<td><p>विशेषण (Adjective)</p></td>
+<td><p>आइ (aai)</p></td>
+<td><p>सफाइ (safa-ai)</p></td>
+<td><p>नाम (Noun)</p></td>
+</tr>
+
 </table>
 </div>
 
@@ -327,136 +330,174 @@ Prefixes in Nepali can be divided into three types and they are:
 **Prefixes from Sanskrit** are the prefixes that are taken from Sanskrit language. Some of such prefixes and their meanings are given in Table 5. 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 5: Prefixes from Sanskrit and their Meanings</caption>
-  <tr>
-    <th>Prefix</th>
-    <th>Meaning</th>
-    <th>Derivative Words</th>
-  </tr>
-  <tr>
-    <td>अति (ati)</td>
-    <td>excess</td>
-    <td>अत्यन्त (aty-anta), अतिवादी(ati-badi)</td>
-  </tr>
-  <tr>
-    <td>अधि (adhi)</td>
-    <td>superiority and very much</td>
-    <td>अधिकार (adhi-kar), अध्यात्म(adhy-atma)</td>
-  </tr>
-  <tr>
-    <td>अनु (anu)</td>
-    <td>order, method and in proximity</td>
-    <td>अनुरुप (anu-rup), अनुशरण (anu-sharan)</td>
-  </tr>
-  <tr>
-    <td>अप (apa)</td>
-    <td>bad and negative</td>
-    <td>अपजस (apa-jas), अपहेलना (apa-helana)</td>
-  </tr>
-  <tr>
-    <td>अभि (abhi)</td>
-    <td>excess, towards and in proximity</td>
-    <td>अभियोग (abhi-yog), अभिमुख (abhi-mukh)</td>
-  </tr>
-  <tr>
-    <td>उत् (ut)</td>
-    <td>high or ascent</td>
-    <td>उत्कृष्ट (ut-krishta), उत्सर्ग (ut-sarga)</td>
-  </tr>
-  <tr>
-    <td>उप (upa)</td>
-    <td>part and in proximity</td>
-    <td>उपहार (upa-haar), उपनाम (upa-naam)</td>
-  </tr>
-</table>
+<caption><p>Table 5: Prefixes from Sanskrit and their Meanings</p></caption>
 
+<tbody><tr>
+<th><p>Prefix</p></th>
+<th><p>Meaning</p></th>
+<th><p>Derivative Words</p></th>
+</tr>
+
+<tr>
+<td><p>अति (ati)</p></td>
+<td><p>excess</p></td>
+<td><p>अत्यन्त (aty-anta),
+अतिवादी(ati-badi)</p></td>
+</tr>
+
+<tr>
+<td><p>अधि (adhi)</p></td>
+<td><p>superiority and very much</p></td>
+<td><p>अधिकार (adhi-kar),
+अध्यात्म(adhy-atma)</p></td>
+</tr>
+
+<tr>
+<td><p>अनु (anu)</p></td>
+<td><p>order, method and in proximity</p></td>
+<td><p>अनुरुप (anu-rup),
+अनुशरण (anu-sharan)</p></td>
+</tr>
+
+<tr>
+<td><p>अप (apa)</p></td>
+<td><p>bad and negative</p></td>
+<td><p>अपजस (apa-jas),
+अपहेलना (apa-helana)</p></td>
+</tr>
+
+<tr>
+<td><p>अभि (abhi)</p></td>
+<td><p>excess, towards and in proximity</p></td>
+<td><p>अभियोग (abhi-yog),
+अभिमुख (abhi-mukh)</p></td>
+</tr>
+
+<tr>
+<td><p>उत् (ut)</p></td>
+<td><p>high or ascent</p></td>
+<td><p>उत्कृष्ट (ut-krishta),
+उत्सर्ग (ut-sarga)</p></td>
+</tr>
+
+<tr>
+<td><p>उप (upa)</p></td>
+<td><p>part and in proximity</p></td>
+<td><p>उपहार (upa-haar),
+उपनाम (upa-naam)</p></td>
+</tr>
+</table>
 </div>
 
 **Prefixes from Nepali** are the prefixes that are from Nepali language itself. Some of such prefixes and their meanings are given in Table 6. 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 6: Prefixes from Nepali and their Meanings</caption>
-  <tr>
-    <th>Prefix</th>
-    <th>Meaning</th>
-    <th>Derivative Words</th>
-  </tr>
-  <tr>
-    <td>अ (a)</td>
-    <td>opposite, lack, forbidden</td>
-    <td>अबुझ(a-bujh), अकाल(a-kaal)</td>
-  </tr>
-  <tr>
-    <td>अन (ana)</td>
-    <td>lack, forbidden</td>
-    <td>अनपढ (ana-padh), अनजान(ana-jaan)</td>
-  </tr>
-  <tr>
-    <td>स (sa)</td>
-    <td>order, method and in proximity of</td>
-    <td>सहित (sa-hit), सगुण (sa-gun)</td>
-  </tr>
-  <tr>
-    <td>उन/उनन् (una/unan)</td>
-    <td>less in number</td>
-    <td>उनन्चालीस (unan-chaalis), उन्नाइस (unn-naais)</td>
-  </tr>
-  <tr>
-    <td>बे (be)</td>
-    <td>except</td>
-    <td>बेकाम (be-kaam), बेनाम (be-naam)</td>
-  </tr>
-  <tr>
-    <td>बै (bai)</td>
-    <td>lack</td>
-    <td>बैगुन (bai-gun), बैराग (bai-raag)</td>
-  </tr>
-</table>
+<caption><p>Table 6: Prefixes from Nepali and their Meanings</p></caption>
 
+<tr>
+<th><p>Prefix</p></th>
+<th><p>Meaning</p></th>
+<th><p>Derivative Words</p></th>
+</tr>
+
+<tr>
+<td><p>अ (a)</p></td>
+<td><p>opposite, lack, forbidden</p></td>
+<td><p>अबुझ(a-bujh),
+अकाल(a-kaal)</p></td>
+</tr>
+
+<tr>
+<td><p>अन (ana)</p></td>
+<td><p>lack, forbidden</p></td>
+<td><p>अनपढ (ana-padh),
+अनजान(ana-jaan)</p></td>
+</tr>
+
+<tr>
+<td><p>स (sa)</p></td>
+<td><p>order, method and in proximity of</p></td>
+<td><p>सहित (sa-hit),
+सगुण (sa-gun)</p></td>
+</tr>
+
+<tr>
+<td><p>उन/उनन् (una/unan)</p></td>
+<td><p>less in number</p></td>
+<td><p>उनन्चालीस (unan-chaalis),
+उन्नाइस (unn-naais)</p></td>
+</tr>
+
+<tr>
+<td><p>बे (be)</p></td>
+<td><p>except</p></td>
+<td><p>बेकाम (be-kaam),
+बेनाम (be-naam)</p></td>
+</tr>
+
+<tr>
+<td><p>बै (bai)</p></td>
+<td><p>lack</p></td>
+<td><p>बैगुन (bai-gun),
+बैराग (bai-raag)</p></td>
+</tr>
+</table>
 </div>
 
 **Prefixes from other sources** are the type of prefixes that are taken from sources other than Sanskrit and Nepali. Some of such prefixes and their meanings are given in Table 7. 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 7: Prefixes from other sources and their Meanings</caption>
-  <tr>
-    <th>Prefix</th>
-    <th>Meaning</th>
-    <th>Source</th>
-    <th>Derivative Words</th>
-  </tr>
-  <tr>
-    <td>कम (kam)</td>
-    <td>less</td>
-    <td>Farsi</td>
-    <td>कमसल (kam-sal), कमजोर (kam-jor)</td>
-  </tr>
-  <tr>
-    <td>गैर (gair)</td>
-    <td>forbidden, absence</td>
-    <td>Arabic</td>
-    <td>गैरकानुनी (gair-kaanuni), गैरजिम्मेवार (gair-jimmewar)</td>
-  </tr>
-  <tr>
-    <td>बद् (bad)</td>
-    <td>bad</td>
-    <td>Farsi</td>
-    <td>बदनाम (bad-naam), बदमास (bad-maas)</td>
-  </tr>
-  <tr>
-    <td>सब (sab)</td>
-    <td>helping, lower</td>
-    <td>English</td>
-    <td>सबकमिटी (sub-kamiti), सुबस्टेसन (sub-stesan)</td>
-  </tr>
-  <tr>
-    <td>ट्रान्स (trans)</td>
-    <td>sender</td>
-    <td>English</td>
-    <td>ट्रान्सपोर्ट (trans-port), ट्रान्सफर (trans-fr)</td>
-  </tr>
-</table>
+<caption><p>Table 7: Prefixes from other sources and their Meanings</p></caption>
 
+<tr>
+<th><p>Prefix</p></th>
+<th><p>Meaning</p></th>
+<th><p>Source</p></th>
+<th><p>Derivative Words</p></th>
+</tr>
+
+<tr>
+<td><p>कम (kam)</p></td>
+<td><p>less</p></td>
+<td><p>Farsi</p></td>
+<td><p>कमसल (kam-sal),
+कमजोर (kam-jor)</p></td>
+</tr>
+
+<tr>
+<td><p>गैर (gair)</p></td>
+<td><p>forbidden, absence</p></td>
+<td><p>Arabic</p></td>
+<td><p>गैरकानुनी (gair-kaanuni),
+गैरजिम्मेवार (gair-jimmewar)</p></td>
+</tr>
+
+<tr>
+<td><p>बद् (bad)</p></td>
+<td><p>bad</p></td>
+<td><p>Farsi</p></td>
+<td><p>बदनाम (bad-naam),
+बदमास (bad-maas)</p></td>
+</tr>
+
+<tr>
+<td><p>सब (sab)</p></td>
+<td><p>helping, lower</p></td>
+<td><p>English</p></td>
+<td><p>सबकमिटी (sub-kamiti),
+सुबस्टेसन (sub-stesan)</p></td>
+</tr>
+
+
+
+<tr>
+<td><p>ट्रान्स (trans)</p></td>
+<td><p>sender</p></td>
+<td><p>English</p></td>
+<td><p>ट्रान्सपोर्ट (trans-port),
+ट्रान्सफर (trans-fr)</p></td>
+</tr>
+</table>
 </div>
 
 ## References

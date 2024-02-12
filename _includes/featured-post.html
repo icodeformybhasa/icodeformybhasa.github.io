@@ -16,7 +16,7 @@
 <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
 </div>
 <div>
-  <p>{{ post.content | truncatewords: 50 }}&nbsp;<a href="{{ site.github.url }}{{ post.url }}" class="text_brand">Read more</a></p>
+  <p>{{ post.content | truncatewords: 50 }}&nbsp;><div class="text_brand"><a href="{{ site.github.url }}{{ post.url }}">Read more</a></div></p>
 </div>
 <hr>
 

@@ -46,33 +46,33 @@ Compounding occurs when two or more words combine to form a new word. In Nepali,
 - Attributive Compound (बहुब्रीहि समास)
 - Copulative Compound (द्वन्द्व समास)
 ```
-# Determinative Compounding
+Determinative Compounding
 कामलाई चोर = कामचोर
 जग्गाको धनी = जग्गाधनी
 भोकले मरी = भोकमरी
 रोगबाट मुक्त = रोगमुक्त
 
-# Numeral Compounding
+Numeral Compounding
 सात कोसीको समूह = सप्तकोसी
 पाँचवटा पत्रको समूह = पञ्चपात्रो
 चार खण्डको समूह = चौखण्ड
 
-# Appositional Compounding
+Appositional Compounding
 फुफू + दिदी = फुफूदिदी
 आमा + छोरी = आमाछोरी 
 प्रिय + जन = प्रियजन
 
-# Adverbial Compounding
+Adverbial Compounding
 यता + उता = यताउता
 ध्यान + पूर्वक = ध्यानपूर्वक
 यस + अर्थ = यसर्थ
 
-# Attributive Compounding
+Attributive Compounding
 लामो पात भएको = लमपाते
 चारवटा मुख भएको = चौमुखी
 लाज नभएको = निर्लज्ज
 
-# Copulative Compounding
+Copulative Compounding
 चाल र चलन = चालचलन 
 तल र माथि = तलमाथि 
 धन र सम्पत्ति = धनसम्पत्ति

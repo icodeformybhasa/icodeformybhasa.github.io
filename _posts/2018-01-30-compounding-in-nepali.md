@@ -24,120 +24,97 @@ In Nepali, the process of compounding can be divided into six types and they are
 A determinative compound is formed when the first word loses its case marker (विभक्ति चिन्ह) when combining with the second root. Such compounds express the meaning of the second root and the meaning of the first word is lost in the process. There are six types of determinative compounds, all of which are listed and described in Table 1. 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 1: Determinative Compound</caption>
-  <tr>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Example</th>
-  </tr>
-  <tr>
-    <td>Independent Form</td>
-    <td>Formed by eliminating accusative (second) case marker: 'लाई (laai)'</td>
-    <td>
-      <p>कामलाई चोर</p>
-      <p>गृहलाई त्याग</p>
-      <p>हितलाई कारी</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Compound Word</td>
-    <td></td>
-    <td>
-      <p>कामचोर</p>
-      <p>गृहत्याग</p>
-      <p>हितकारी</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Third (तृतीया)</td>
-    <td>Formed by eliminating instrumental (third) case markers: 'द्वारा (dwara)', 'बाट (bata)', 'ले (le)'</td>
-    <td>
-      <p>रोगले ग्रस्त</p>
-      <p>भोकले मरी</p>
-      <p>मन्त्रबाट मुग्ध</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Compound Word</td>
-    <td></td>
-    <td>
-      <p>रोगग्रस्त</p>
-      <p>भोकमरी</p>
-      <p>मन्त्रमुग्ध</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Fourth (चतुर्थी)</td>
-    <td>Formed by eliminating dative (fourth) case markers: 'लागि (laagi)', 'लाई (laai)', 'निम्ति (nimti)'</td>
-    <td>
-      <p>देशलाई भक्ति</p>
-      <p>बैठकनिम्ति कोठा</p>
-      <p>बाटालाई खर्च</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Compound Word</td>
-    <td></td>
-    <td>
-      <p>देशभक्ति</p>
-      <p>बैठककोठा</p>
-      <p>बाटाखर्च</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Fifth (पञ्चमी)</td>
-    <td>Formed by eliminating ablative (fifth) case markers: 'देखि (dekhi)', 'बाट (bata)'</td>
-    <td>
-      <p>पथबाट भ्रष्ट</p>
-      <p>जन्मैदेखि रोगी</p>
-      <p>पापबाट मुक्त</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Compound Word</td>
-    <td></td>
-    <td>
-      <p>पथभ्रष्ट</p>
-      <p>जन्मरोगी</p>
-      <p>पापमुक्त</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Sixth (षष्ठी)</td>
-    <td>Formed by eliminating genitive (sixth) case markers: 'को (ko)', 'का (ka)', 'की (ki)'</td>
-    <td>
-      <p>जग्गाको धनी</p>
-      <p>धानका खेत</p>
-      <p>जीवनको स्तर</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Compound Word</td>
-    <td></td>
-    <td>
-      <p>जग्गाधनी</p>
-      <p>धानखेत</p>
-      <p>जीवनस्तर</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Seventh (सप्तमी)</td>
-    <td>Formed by eliminating locative (seventh) case marker: 'मा (ma)'</td>
-    <td>
-      <p>वनमा बास</p>
-      <p>कविमा श्रेष्ठ</p>
-      <p>नगरमा प्रमुख</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Compound Word</td>
-    <td></td>
-    <td>
-      <p>वनबास</p>
-      <p>कविश्रेष्ठ</p>
-      <p>नगरप्रमुख</p>
-    </td>
-  </tr>
+<caption><p>Table 1: Determinative Compound</p></caption>
+<tr>
+<th rowspan="2"><p>Type</p></th>
+<th rowspan="2"><p>Description</p></th>
+<th colspan="2"><p>Example</p></th>
+</tr>
+
+<tr>
+<td><p>Independent Form</p></td>
+<td><p>Compound Word</p></td>
+</tr>
+
+<tr>
+<th><p>Second (द्वितीया)</p></th>
+<td><p>Formed by eliminating
+<b>accusative (second)</b> case marker:
+'लाई (laai)'</p></td>
+<td><p>कामलाई चोर
+गृहलाई त्याग
+हितलाई कारी</p></td>
+<td><p>कामचोर
+गृहत्याग
+हितकारी</p></td>
+</tr>
+
+<tr>
+<th><p>Third (तृतीया)</p></th>
+<td><p>Formed by eliminating
+<b>instrumental (third)</b> case markers:
+'द्वारा (dwara)', 'बाट (bata)', 'ले (le)'</p></td>
+<td><p>रोगले ग्रस्त
+भोकले मरी
+मन्त्रबाट मुग्ध</p></td>
+<td><p>रोगग्रस्त
+भोकमरी
+मन्त्रमुग्ध</p></td>
+</tr>
+
+<tr>
+<th><p>Fourth (चतुर्थी)</p></th>
+<td><p>Formed by eliminating
+<b>dative (fourth)</b> case markers:
+'लागि (laagi)', 'लाई (laai)',
+'निम्ति (nimti)' </p></td>
+<td><p>देशलाई भक्ति
+बैठकनिम्ति कोठा
+बाटालाई खर्च</p></td>
+<td><p>देशभक्ति
+बैठककोठा
+बाटाखर्च</p></td>
+</tr>
+
+<tr>
+<th><p>Fifth (पञ्चमी)</p></th>
+<td><p>Formed by eliminating
+<b>ablative (fifth)</b> case markers:
+'देखि (dekhi)', 'बाट (bata)'</p></td>
+<td><p>पथबाट भ्रष्ट
+जन्मैदेखि रोगी
+पापबाट मुक्त</p></td>
+<td><p>पथभ्रष्ट
+जन्मरोगी
+पापमुक्त</p></td>
+</tr>
+
+<tr>
+<th><p>Sixth (षष्ठी)</p></th>
+<td><p>Formed by eliminating
+<b>genitive (sixth)</b> case markers:
+'को (ko)', 'का (ka)', 'की (ki)'</p></td>
+<td><p>जग्गाको धनी
+धानका खेत
+जीवनको स्तर</p></td>
+<td><p>जग्गाधनी
+धानखेत
+जीवनस्तर</p></td>
+</tr>
+
+<tr>
+<th><p>Seventh (सप्तमी)</p></th>
+<td><p>Formed by eliminating
+<b>locative (seventh)</b> case marker:
+'मा (ma)'</p></td>
+<td><p>वनमा बास
+कविमा श्रेष्ठ
+नगरमा प्रमुख</p></td>
+<td><p>वनबास
+कविश्रेष्ठ
+नगरप्रमुख</p></td>
+</tr>
+
 </table>
 </div>
 
@@ -165,78 +142,67 @@ All the independent words forming an appositional compound have equal importance
 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 2: Appositional Compound</caption>
-  <tr>
-    <th>Type</th>
-    <th>Example</th>
-    <th>Independent Form</th>
-    <th>Compound Word</th>
-  </tr>
-  <tr>
-    <td>Adjective + Adjective</td>
-    <td>
-      <p>रातो + पीरो</p>
-      <p>जान्ने + सुन्ने</p>
-      <p>जेठो + बाठो</p>
-    </td>
-    <td>
-      <p>रातोपीरो</p>
-      <p>जान्नेसुन्ने</p>
-      <p>जेठोबाठो</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Noun + Noun</td>
-    <td>
-      <p>फुफू + दिदी</p>
-      <p>दाजु + भाइ</p>
-      <p>लोग्ने + मान्छे</p>
-    </td>
-    <td>
-      <p>फुफूदिदी</p>
-      <p>दाजुभाइ</p>
-      <p>लोग्नेमान्छे</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Adjective + Noun</td>
-    <td>
-      <p>मध्ये + रात</p>
-      <p>दीर्घ + रोग</p>
-      <p>बहु + दल</p>
-    </td>
-    <td>
-      <p>मध्यरात</p>
-      <p>दीर्घरोग</p>
-      <p>बहुदल</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Metaphor and Word to be Compared</td>
-    <td>
-      <p>चरणरुपी कमल</p>
-      <p>चन्द्र जस्तो बिन्दु</p>
-      <p>हाड जस्तो ओखर</p>
-    </td>
-    <td>
-      <p>चरणकमल</p>
-      <p>चन्द्रबिन्दु</p>
-      <p>हाडेओखर</p>
-    </td>
-  </tr>
-  <tr>
-    <td>Attribute and Word to be Attributed</td>
-    <td>
-      <p>ज्ञानरुपी अमृत</p>
-      <p>भवरुपी सागर</p>
-      <p>विद्यारुपी धन</p>
-    </td>
-    <td>
-      <p>ज्ञानामृत</p>
-      <p>भवसागर</p>
-      <p>विद्याधन</p>
-    </td>
-  </tr>
+<caption><p>Table 2: Appositional Compound</p></caption>
+<tr>
+<th rowspan="2"><p>Type</p></th>
+<th colspan="2"><p>Example</p></th>
+</tr>
+
+<tr>
+<td><p>Independent Form</p></td>
+<td><p>Compound Word</p></td>
+</tr>
+
+<tr>
+<th><p>Adjective + Adjective</p></th>
+<td><p>रातो + पीरो
+जान्ने + सुन्ने
+जेठो + बाठो</p></td>
+<td><p>रातोपीरो
+जान्नेसुन्ने
+जेठोबाठो</p></td>
+</tr>
+
+<tr>
+<th><p>Noun + Noun</p></th>
+<td><p>फुफू + दिदी
+दाजु + भाइ
+लोग्ने + मान्छे</p></td>
+<td><p>फुफूदिदी
+दाजुभाइ
+लोग्नेमान्छे</p></td>
+</tr>
+
+<tr>
+<th><p>Adjective + Noun</p></th>
+<td><p>मध्ये + रात
+दीर्घ + रोग
+बहु + दल</p></td>
+<td><p>मध्यरात
+दीर्घरोग
+बहुदल</p></td>
+</tr>
+
+<tr>
+<th><p>Metaphor and Word to be Compared</p></th>
+<td><p>चरणरुपी कमल
+चन्द्र जस्तो बिन्दु
+हाड जस्तो ओखर</p></td>
+<td><p>चरणकमल
+चन्द्रबिन्दु
+हाडेओखर</p></td>
+</tr>
+
+<tr>
+<th><p>Attribute and Word to be Attributed</p></th>
+<td><p>ज्ञानरुपी अमृत
+भवरुपी सागर
+विद्यारुपी धन</p></td>
+<td><p>ज्ञानामृत
+भवसागर
+विद्याधन</p></td>
+</tr>
+
 </table>
 </div>
 
@@ -257,70 +223,69 @@ An attributive compound is an adjective, which is formed when two or more words 
 
 <div class="table-responsive">
 <table class="table">
-<caption>Table 3: Attributive Compound</caption>
-  <tr>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Example</th>
-    <th>Independent Form</th>
-    <th>Compound Word</th>
-  </tr>
-  <tr>
-    <td>सम्बन्धार्थी (Sambandhaarthi)</td>
-    <td>Expresses special meaning related to any thing or person, which is different from the meaning expressed by the independent words</td>
-    <td>
-      <p>लामा खुट्टा छन् जसका</p>
-      <p>चार कुना छन् जसका</p>
-      <p>बाघलाई चालिन्छ जसमा</p>
-    </td>
-    <td>
-      <p>लामखुट्टे</p>
-      <p>चारकुने</p>
-      <p>बाघचाल</p>
-    </td>
-  </tr>
-  <tr>
-    <td>परिमाणार्थी (Parimaanarthi)</td>
-    <td>Expresses the quantity of a thing or person</td>
-    <td>
-      <p>तीन फुट परिमाण भएको</p>
-      <p>दश गज चौडाइ भएको</p>
-      <p>पाँच हात लम्बाइ भएको</p>
-    </td>
-    <td>
-      <p>तीनफुटे</p>
-      <p>दशगजा</p>
-      <p>पाँचहाते</p>
-    </td>
-  </tr>
-  <tr>
-    <td>उपमार्थी (Upamarthi)</td>
-    <td>Expresses meaning in comparison to something</td>
-    <td>
-      <p>पानको जस्तो बुट्टा छ जसको</p>
-      <p>चराको जस्तो नङ्ग्रा भएको</p>
-      <p>गोबरको गणेश जस्तो छ जो</p>
-    </td>
-    <td>
-      <p>पानबुट्टे</p>
-      <p>चरीनङ्ग्रे</p>
-      <p>गोबरगणेश</p>
-    </td>
-  </tr>
-  <tr>
-    <td>निषेधार्थी (Nishedharthi)</td>
-    <td>Expresses the denial or lack of something</td>
-    <td>
-      <p>विकल्प नभएको</p>
-      <p>थिति नभएको</p>
-      <p>लाज नभएको</p>
-    </td>
-    <td>
-      <p>निर्विकल्प</p>
-      <p>बेथिति</p>
-      <p>निर्लज्ज</p>
-    </td>
-  </tr>
+<caption><p>Table 3: Attributive Compound</p></caption>
+<tr>
+<th rowspan="2"><p>Type</p></th>
+<th rowspan="2"><p>Description</p></th>
+<th colspan="2"><p>Example</p></th>
+</tr>
+
+<tr>
+<td><p>Independent Form</p></td>
+<td><p>Compound Word</p></td>
+</tr>
+
+<tr>
+<th><p>सम्बन्धार्थी (Sambandhaarthi)</p></th>
+<td><p>Expresses special meaning
+related to any thing or person,
+which is different from
+the meaning expressed by
+the independent words</p></td>
+<td><p>लामा खुट्टा छन् जसका
+चार कुना छन् जसका
+बाघलाई चालिन्छ जसमा</p></td>
+<td><p>लामखुट्टे
+चारकुने
+बाघचाल</p></td>
+</tr>
+
+<tr>
+<th><p>परिमाणार्थी (Parimaanarthi)</p></th>
+<td><p>Expresses the quantity
+of a thing or person</p></td>
+<td><p>तीन फुट परिमाण भएको
+दश गज चौडाइ भएको
+पाँच हात लम्बाइ भएको</p></td>
+<td><p>तीनफुटे
+दशगजा
+पाँचहाते</p></td>
+</tr>
+
+<tr>
+<th><p>उपमार्थी (Upamarthi)</p></th>
+<td><p>Expresses meaning in
+comparision to something</p></td>
+<td><p>पानको जस्तो बुट्टा छ जसको
+चराको जस्तो नङ्ग्रा भएको
+गोबरको गणेश जस्तो छ जो</p></td>
+<td><p>पानबुट्टे
+चरीनङ्ग्रे
+गोबरगणेश</p></td>
+</tr>
+
+<tr>
+<th><p>निषेधार्थी (Nishedharthi)</p></th>
+<td><p>Expresses the denial or
+lack of something</p></td>
+<td><p>विकल्प नभएको
+थिति नभएको
+लाज नभएको</p></td>
+<td><p>निर्विकल्प
+बेथिति
+निर्लज्ज</p></td>
+</tr>
+
 </table>
 </div>
 
@@ -328,110 +293,104 @@ An attributive compound is an adjective, which is formed when two or more words 
 Copulative compounds are formed when two or more words connected by a conjunction combine by losing the conjunction. The types of copulative compound are listed in Table 4.
 <div class="table-responsive">
 <table class="table">
-<caption>Table 4: Copulative Compound </caption>
-  <tr>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Example</th>
-    <th>Independent Form</th>
-    <th>Compound Word</th>
-  </tr>
-  <tr>
-    <td>समुच्चार्थक (Samuchcharthak)</td>
-    <td>Compounding of two similar words</td>
-    <td>
-      <p>दया र माया</p>
-      <p>राधा र कृष्ण</p>
-      <p>शिक्षा र दीक्षा</p>
-    </td>
-    <td>
-      <p>दयामाया</p>
-      <p>राधाकृष्ण</p>
-      <p>शिक्षादीक्षा</p>
-    </td>
-  </tr>
-  <tr>
-    <td>विपरीतार्थी (Biparitarthi)</td>
-    <td>Compounding of words that express opposite meanings</td>
-    <td>
-      <p>दु:ख र सुख</p>
-      <p>साँझ र बिहान</p>
-      <p>लामो र छोटो</p>
-    </td>
-    <td>
-      <p>दु:खसुख</p>
-      <p>साँझबिहान</p>
-      <p>लामोछोटो</p>
-    </td>
-  </tr>
-  <tr>
-    <td>विकल्पबोधक (Bikalpabodhak)</td>
-    <td>Formed due to the combination of noun, number or verb separated by 'वा (wa)'</td>
-    <td>
-      <p>एक वा दुई</p>
-      <p>धेरै वा थोरै</p>
-      <p>भएको वा नभएको</p>
-    </td>
-    <td>
-      <p>एकदुई</p>
-      <p>धेरैथोरै</p>
-      <p>भएनभएको</p>
-    </td>
-  </tr>
-  <tr>
-    <td>पर्यायबोधक (Pryayabodhak)</td>
-    <td>Formed due to the compounding of words that express the same meaning</td>
-    <td>
-      <p>इज्जत र प्रतिष्ठा</p>
-      <p>बोली र वचन</p>
-      <p>धन र सम्पत्ति</p>
-    </td>
-    <td>
-      <p>इज्जतप्रतिष्ठा</p>
-      <p>बोलीवचन</p>
-      <p>धनसम्पत्ति</p>
-    </td>
-  </tr>
-  <tr>
-    <td>निषेधार्थी (Nishedharthi)</td>
-    <td>Compounding of words that express opposite meanings and are separated by 'न (na)'</td>
-    <td>
-      <p>न छेउ न टुप्पो</p>
-      <p>न शिर न पुच्छर</p>
-      <p>न छोरा न छोरी</p>
-    </td>
-    <td>
-      <p>छेउटुप्पो</p>
-      <p>शिरपुच्छर</p>
-      <p>छोराछोरी</p>
-    </td>
-  </tr>
-  <tr>
-    <td>एकशेष (Ekshesh)</td>
-    <td>A single word produced from the combination of many words</td>
-    <td>
-      <p>तन, मन र धन</p>
-      <p>मन, वचन र कर्म</p>
-    </td>
-    <td>
-      <p>तनमनधन</p>
-      <p>मनवचनकर्म</p>
-    </td>
-  </tr>
-  <tr>
-    <td>क्रियार्थ (Kriyarath)</td>
-    <td>Formed due to the combination of two verbs</td>
-    <td>
-      <p>तोड र फोड</p>
-      <p>उठ र बस</p>
-      <p>ढाक र छोप</p>
-    </td>
-    <td>
-      <p>तोडफोड</p>
-      <p>उठबस</p>
-      <p>ढाकछोप</p>
-    </td>
-  </tr>
+<caption><p>Table 6: Copulative Compound</p></caption>
+<tr>
+<th rowspan="2"><p>Type</p></th>
+<th rowspan="2"><p>Description</p></th>
+<th colspan="2"><p>Example</p></th>
+</tr>
+
+<tr>
+<td><p>Independent Form</p></td>
+<td><p>Compound Word</p></td>
+</tr>
+
+<tr>
+<th><p>समुच्चार्थक (Samuchcharthak)</p></th>
+<td><p>Compounding of two simiral
+words</p></td>
+<td><p>दया र माया
+राधा र कृष्ण
+शिक्षा र दीक्षा</p></td>
+<td><p>दयामाया
+राधाकृष्ण
+शिक्षादीक्षा</p></td>
+</tr>
+
+<tr>
+<th><p>विपरीतार्थी (Biparitarthi)</p></th>
+<td><p>Compounding of words
+that express opposite meanings</p></td>
+<td><p>दु:ख र सुख
+साँझ र बिहान
+लामो र छोटो</p></td>
+<td><p>दु:खसुख
+साँझबिहान
+लामोछोटो</p></td>
+</tr>
+
+<tr>
+<th><p>विकल्पबोधक (Bikalpabodhak)</p></th>
+<td><p>Formed due to the combination
+of noun, number or verb
+separated by 'वा (wa)'</p></td>
+<td><p>एक वा दुई
+धेरै वा थोरै
+भएको वा नभएको</p></td>
+<td><p>एकदुई
+धेरैथोरै
+भएनभएको</p></td>
+</tr>
+
+<tr>
+<th><p>पर्यायबोधक (Pryayabodhak)</p></th>
+<td><p>Formed due the compounding
+of words that express
+the same meaning</p></td>
+<td><p>इज्जत र प्रतिष्ठा
+बोली र वचन
+धन र सम्पत्ति</p></td>
+<td><p>इज्जतप्रतिष्ठा
+बोलीवचन
+धनसम्पत्ति</p></td>
+</tr>
+
+<tr>
+<th><p>निषेधार्थी (Nishedharthi)</p></th>
+<td><p>Compounding of words
+that express opposite
+meanings and are spearated
+by 'न (na)'</p></td>
+<td><p>न छेउ न टुप्पो
+न शिर न पुच्छर
+न छोरा न छोरी</p></td>
+<td><p>छेउटुप्पो
+शिरपुच्छर
+छोराछोरी</p></td>
+</tr>
+
+<tr>
+<th><p>एकशेष (Ekshesh)</p></th>
+<td><p>A single word produced
+from the combination
+of many words </p></td>
+<td><p>तन, मन र धन
+मन, वचन र कर्म</p></td>
+<td><p>तनमनधन
+मनवचनकर्म</p></td>
+</tr>
+
+<tr>
+<th><p>क्रियार्थ (Kriyarath)</p></th>
+<td><p>Formed due to the
+combination of two verbs</p></td>
+<td><p>तोड र फोड
+उठ र बस
+ढाक र छोप</p></td>
+<td><p>तोडफोड
+उठबस
+ढाकछोप</p></td>
+</tr>
 </table>
 
 </div> 
