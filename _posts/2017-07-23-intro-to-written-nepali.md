@@ -21,15 +21,13 @@ Nepali Alphabets consists of 11 vowels and 33 consonants. All the vowels and con
 <th><p>Vowels</p></th>
 <td><p>अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ</p></td>
 </tr>
-
-
 <tr> 
 <th><p>Consonants</p></th>
 <td><p>क, ख, ग, घ, ङ, च, छ, ज, झ, ञ, ट, ठ, ड, ढ, ण, त, थ, द, ध, न, प, फ, ब, भ, म, य, र, ल, व, श, ष, स, ह</p></td>
 </tr>
 </table>
 </div>
-
+  
 क्ष, त्र and ज्ञ are usually mistaken for consonants but these letters are special combination of two different consonants and halanta "्".
 ```
 क + ् + ष = क्ष	
@@ -111,6 +109,7 @@ NOTE: _Regardless of where the modifiers appear to be in writing, in computerize
 
 ## Symbols(चिन्ह)
 
+<<<<<<< HEAD
 In addition to alphabets and modifiers, there are other symbols used in Nepali. Such symbols are listed below.
 ```
 Chandrabindu(चन्द्रविन्दु) : ँ  
@@ -118,6 +117,34 @@ Sirbindu(शिरविन्दु): ं
 Halanta(हलन्त): ् 
 Visarga(विसर्ग): : 
 ```
+=======
+In addition to alphabets and modifiers, there are other symbols used in Nepali. Such symbols are listed below in Table 3.
+
+<div class="table-responsive">
+<table class="table">
+<caption><p>Table 3: Symbols in Nepali</p></caption>
+<tr> 
+<th><p>Chandrabindu(चन्द्रविन्दु)</p></th>
+<td><p>ँ</p> </td>
+</tr>
+
+<tr> 
+<th><p>Sirbindu(शिरविन्दु)</p></th>
+<td><p>ं</p> </td>
+</tr>
+
+<tr> 
+<th><p>Halanta(हलन्त)</p></th>
+<td><p>्</p> </td>
+</tr>
+
+<tr> 
+<th><p>Visarga(विसर्ग)</p></th>
+<td><p>:</p> </td>
+</tr>
+</table>
+</div>
+>>>>>>> 69bd8cfd0973279640d4366682f0c035c4dc329c
 
 ## Chandrabindu and Sirbindu
 
