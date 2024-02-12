@@ -90,17 +90,17 @@ In Nepali, the formation of new words can take place due to reduplication of wor
 - Partial Reduplication (आंशिक द्वित्व)
 - Echo Reduplication (आपरिवर्तित द्वित्व)
 ```
-# Total Reduplication
+Total Reduplication
 बाटो + बाटो = बाटैबाटो
 तान + तान = तानातान
 तँ + तँ = तँतँ
 
-# Partial Reduplication
+Partial Reduplication
 सम्मान + सम्मान = ससम्मान
 झगडा + झगडा = झैझगडा
 तयार + तयार = तम्तयार
 
-# Echo Reduplication
+Echo Reduplication
 तेल + तेल = तेलसेल
 खटन + खटन = खटनपटन
 घर + घर = घरसर
@@ -111,12 +111,12 @@ In Nepali, the formation of new words can take place due to reduplication of wor
 Euphonic Combination is the joining of two phonemes from two different words to derive a single word. In Nepali, we can find two different categories of the euphonic combination. The first category contains all the types of euphonic combination taken from Sanskrit (तत्सम सन्धि) as Nepali is one of the languages which is derived from Sanskrit. The other category contains the types of euphonic combination specific to Nepali language (तत्भव सन्धि). 
 
 ```
-# Sanskrit Euphonic Combination
+Sanskrit Euphonic Combination
 उप + अध्यक्ष = उपाध्यक्ष
 महा + इन्द्र = महेन्द्र
 अधि + आत्मा = अध्यात्म
 
-# Nepali Euphonic Combination
+Nepali Euphonic Combination
 मोटा + आइ = मोटाइ 
 जाउ + अत = जावत
 राती + ओली = रत्यौली
