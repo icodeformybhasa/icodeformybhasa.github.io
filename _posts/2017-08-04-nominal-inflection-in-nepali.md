@@ -4,7 +4,7 @@ title: "Nominal Inflections: The Morphological Adaptations of Nepali Nouns, Pron
 author: "Shreeya Dhakal"
 categories: nepali-grammar
 tags: [nepali, nepali-grammar, written nepali, morpheme, morphology, inflection]
-image: nepali-lang.png
+image: nominals.png
 ---
 
 Nepali is an inflectionally rich language. In this post we will look into inflections in Nepali Nouns, Pronouns, and Adjectives. 
