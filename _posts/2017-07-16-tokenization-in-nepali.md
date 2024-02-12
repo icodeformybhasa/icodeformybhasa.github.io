@@ -15,7 +15,7 @@ In cases where we want our tokens to be sentences, our possible token boundary i
 
 पूर्णविराम(।) in Nepali is equivalent to a full stop (.) in English.
 
-```python
+```
 # Split at ?, । or !
 return re.split('(?<=[।?!]) +', text)
 
