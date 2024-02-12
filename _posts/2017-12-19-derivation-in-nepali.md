@@ -48,6 +48,7 @@ Compounding occurs when two or more words combine to form a new word. In Nepali,
 - Adverbial Compound (अव्य्यीभाव समास)
 - Attributive Compound (बहुब्रीहि समास)
 - Copulative Compound (द्वन्द्व समास)
+
 ```
 Determinative Compounding
 कामलाई चोर = कामचोर
