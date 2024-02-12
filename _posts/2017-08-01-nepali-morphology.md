@@ -4,7 +4,7 @@ title: "Exploring the Building Blocks: A Simple Guide to Morphemes in Nepali"
 author: "Shreeya Dhakal"
 categories: nepali-grammar
 tags: [nepali, nepali-grammar, written nepali, morpheme, morphology, inflection]
-image: nepali-lang.png
+image: morphology.png
 ---
 
 In this post, we will explore morphemes, which are the smallest units of meaning in language. Words in Nepali can be comprised of: 1) a free morpheme; 2) one or more bound morphemes attached to a free morpheme; or 3) two or more bound morphemes. The process by which a bound morpheme attaches to a free morpheme or another bound morpheme to form a word can be categorized into inflection (रुपायन) and derivation (व्युत्पादन), resulting in two types of bound morphemes: inflectional and derivational.
