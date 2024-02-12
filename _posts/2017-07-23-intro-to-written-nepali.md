@@ -12,6 +12,7 @@ Nepali is an Indo-Aryan language. It is written in Devnagari script. Hindi, Beng
 Nepali is written using vowels, consonants, modifiers(मात्रा) and symbols(चिन्ह). 
 
 ## Nepali Alphabets
+
 Nepali Alphabets consists of 11 vowels and 33 consonants. All the vowels and consonants, in Nepali, are listed in Table 1.
 
 <div class="table-responsive">
@@ -109,7 +110,6 @@ NOTE: _Regardless of where the modifiers appear to be in writing, in computerize
 
 ## Symbols(चिन्ह)
 
-<<<<<<< HEAD
 In addition to alphabets and modifiers, there are other symbols used in Nepali. Such symbols are listed below.
 ```
 Chandrabindu(चन्द्रविन्दु) : ँ  
@@ -117,34 +117,6 @@ Sirbindu(शिरविन्दु): ं
 Halanta(हलन्त): ् 
 Visarga(विसर्ग): : 
 ```
-=======
-In addition to alphabets and modifiers, there are other symbols used in Nepali. Such symbols are listed below in Table 3.
-
-<div class="table-responsive">
-<table class="table">
-<caption><p>Table 3: Symbols in Nepali</p></caption>
-<tr> 
-<th><p>Chandrabindu(चन्द्रविन्दु)</p></th>
-<td><p>ँ</p> </td>
-</tr>
-
-<tr> 
-<th><p>Sirbindu(शिरविन्दु)</p></th>
-<td><p>ं</p> </td>
-</tr>
-
-<tr> 
-<th><p>Halanta(हलन्त)</p></th>
-<td><p>्</p> </td>
-</tr>
-
-<tr> 
-<th><p>Visarga(विसर्ग)</p></th>
-<td><p>:</p> </td>
-</tr>
-</table>
-</div>
->>>>>>> 69bd8cfd0973279640d4366682f0c035c4dc329c
 
 ## Chandrabindu and Sirbindu
 

@@ -31,6 +31,7 @@ A **primary suffix (कृत् प्रत्यय)** is added to the end of
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 1: Examples of Primary Derivation</p></caption>
+<tbody>
 <tr>
 <th><p>Primary Suffix
 (कृत् प्रत्यय)</p></th>
@@ -105,7 +106,7 @@ A **primary suffix (कृत् प्रत्यय)** is added to the end of
 <td><p>क्रियाविशेषण (Adverb)</p></td>
 </tr>
 
-</table>
+</tbody></table>
 </div>
 
 
@@ -114,7 +115,7 @@ A **secondary suffix (तद्वित प्रत्यय)** can be applied
 <div class="table-responsive">
 <table class="table">
 <caption><p>Table 2: Examples of Secondary Derivation</p></caption>
-<tr>
+<tbody><tr>
 <th><p>Root</p></th>
 <th><p>Category of Root</p></th>
 <th><p>Secondary Suffix
@@ -190,7 +191,7 @@ A **secondary suffix (तद्वित प्रत्यय)** can be applied
 <td><p>नाम (Noun)</p></td>
 </tr>
 
-</table>
+</tbody></table>
 </div>
 
 On the basis of their ability to maintain or change the lexical category of the base they get attached to, suffixes in Nepali can be of two types. They are:
@@ -204,7 +205,7 @@ A **class maintaining suffix** maintains the lexical category of the root after 
 <table class="table">
 <caption><p>Table 3: Examples of Class Maintaining Suffixation</p></caption>
 
-<tr>
+<tbody><tr>
 <th><p>Root</p></th>
 <th><p>Suffix (प्रत्यय)</p></th>
 <th><p>Derivative Word</p></th>
@@ -246,7 +247,7 @@ A **class maintaining suffix** maintains the lexical category of the root after 
 <td><p>क्रियाविशेषण (Adverb)</p></td>
 </tr>
 
-</table>
+</tbody></table>
 </div>
 
 A **class changing suffix** changes the lexical category of the root after suffixation. Some of the class maintaining suffixes in Nepali are given in Table 4.
@@ -255,7 +256,7 @@ A **class changing suffix** changes the lexical category of the root after suffi
 <table class="table">
 <caption><p>Table 4: Examples of Class Changing Suffixation</p></caption>
 
-<tr>
+<tbody><tr>
 <th><p>Root</p></th>
 <th><p>Category of Root</p></th>
 <th><p>Suffix (प्रत्यय)</p></th>
@@ -313,7 +314,7 @@ A **class changing suffix** changes the lexical category of the root after suffi
 <td><p>नाम (Noun)</p></td>
 </tr>
 
-</table>
+</tbody></table>
 </div>
 
 ## Prefixation
