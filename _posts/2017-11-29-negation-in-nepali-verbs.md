@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Verbal Inflections: The Varied Forms of Nepali Verbs"
+title: "Negation in Nepali Verbs"
 author: "Shreeya Dhakal"
 categories: nepali-grammar
 tags: [nepali, nepali-grammar, written nepali, morpheme, morphology, inflection, verbs]
-image: verbalinflection.png
+image: negation.png
 ---
 
 Negation is used to express the opposite meaning of affirmative sentences. Negation in Nepali verbs takes place due to affixation(suffixation and prefixation). The negative case marker न(na) is either prefixed or suffixed with verb roots or verb forms to express negation. 
