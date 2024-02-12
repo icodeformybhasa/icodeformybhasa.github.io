@@ -85,10 +85,10 @@ Copulative Compounding
 ## Reduplication
 
 In Nepali, the formation of new words can take place due to reduplication of word or part of the word. Reduplication, in Nepali, can be divided into three categories and they are:
-
 - Total Reduplication (पूर्ण द्वित्व)
 - Partial Reduplication (आंशिक द्वित्व)
 - Echo Reduplication (आपरिवर्तित द्वित्व)
+
 ```
 Total Reduplication
 बाटो + बाटो = बाटैबाटो
