@@ -7,7 +7,7 @@ tags: [nepali, written nepali, morpheme, morphology, derivation, verbs, compound
 image: compounding.png
 ---
 
-This blog post is the third post in the series 'Derivation in Nepali'. In the previous posts ( [An Introduction to Derivation in Nepali](https://icodeformybhasa.github.io/derivation-in-nepali) and [Derivation in Nepali: Affixation](https://icodeformybhasa.github.io/affixation-in-nepali)), we gave a brief introduction to derivations in Nepali and discussed the process of affixation. In the blog post, we'll be discussing another common process of word formation due to derivation call compounding.
+This blog post is the third post in the series 'Derivation in Nepali'. In the previous posts ([An Introduction to Derivation in Nepali](https://icodeformybhasa.github.io/derivation-in-nepali) and [Derivation in Nepali: Affixation](https://icodeformybhasa.github.io/affixation-in-nepali)), we gave a brief introduction to derivations in Nepali and discussed the process of affixation. In the blog post, we'll be discussing another common process of word formation due to derivation call compounding.
 
 **Compounding** is the process of word formation in which two or more words combine to form new words. A word formed due to compounding is called a compound word (समस्त शब्द) and contains more than on root/stem.
 
