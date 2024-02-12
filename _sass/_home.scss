@@ -11,6 +11,7 @@
   margin: 0;
   padding: 10px;
   position: absolute;
+  color: #1d5965;
 }
 .featured-post h2 span {
   display: inline-block;
@@ -53,4 +54,31 @@
 }
 .pagination-active:hover {
   background-color: #e0e0e0;
+}
+
+/*
+  Image
+*/
+
+.featured-image {
+  height: 400px;
+  margin: 5px 10px 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Responsive Image */
+@media only screen and (max-width: 600px) {
+  .featured-post {
+    height: 300px; /* Adjust as needed for smaller screens */
+  }
+}
+/*
+  post-preview
+*/
+.post-preview {
+  background-color: #f2f2f2; /* Light grey background color */
+  padding: 10px; /* Optional: Add padding for better spacing */
 }
