@@ -4,7 +4,7 @@
 <span class="post-date">
   {{ site.data.settings.post_date_prefix }}
   {% if post.date %}
-  {{ post.date | date: "%Y-%m-%d" }}
+    {{ post.date | date: "%Y-%m-%d" }}
   {% endif %}
   by
   {% if page.author %}
@@ -16,9 +16,11 @@
 <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
 </div>
 <div>
-<p>{{ post.content | truncatewords: 50 }}&nbsp;<a href="{{ site.github.url }}{{ post.url }}"><div class="text_brand">Read more</div></a></p>
+  <p>{{ post.content | truncatewords: 50 }}&nbsp;<a href="{{ site.github.url }}{{ post.url }}" class="text_brand">Read more</a></p>
 </div>
 <hr>
+
+
 
 
 
