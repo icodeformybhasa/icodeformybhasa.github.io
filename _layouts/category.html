@@ -7,3 +7,9 @@ layout: default
     {% include featured-post.html %}
   {% endif %}
 {% endfor %}
+
+{% for post in site.posts %}
+  {% if post.categories contains "resources" %}
+    {% include resource-page.html %}
+  {% endif %}
+{% endfor %}
