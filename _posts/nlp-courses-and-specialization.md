@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title_custom: "NLP Courses and Specialization"
 categories: resources
 tags: [NLP Courses]
