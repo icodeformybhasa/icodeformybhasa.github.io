@@ -2,7 +2,7 @@
 layout: post
 title: "Tokenization in Nepali"
 author: "Shreeya Dhakal"
-categories: [nepali-grammar, nlp-fundamentals]
+categories: nepali-grammar
 tags: [tokenization, nepali-grammar]
 image: tokenization.jpg
 ---
