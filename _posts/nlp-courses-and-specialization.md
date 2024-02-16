@@ -1,6 +1,6 @@
 ---
-layout: basic
-title: "NLP Courses and Specialization"
+layout: page
+title_custom: "NLP Courses and Specialization"
 author: "Shreeya Dhakal"
 categories: resources
 tags: [NLP Courses]
